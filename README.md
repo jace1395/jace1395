@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jace Cadwy Henriques</h1>
 <h3 align="center">A student who is passionate in the field of computers.</h3>
 
-- 🌱 I’m currently learning **Bachelor of Vocation in Software Technologies (B.Voc(S.T)))**
+- 🌱 I’m currently learning **Bachelor of Vocation in Software Technologies (B.Voc(S.T))**
 
 - 📫 How to reach me [jacecadwy13@gmail.com](jacecadwy13@gmail.com)
 
