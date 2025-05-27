@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jace1395" target="_blank">
+  <a href="https://github.com/jace1395">
     <img src="https://img.shields.io/badge/GitHub-jace1395-blue?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:jacehenriques07@gmail.com" target="_blank">
+  <a href="mailto:jacehenriques07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
   </a>
 </p>
@@ -48,12 +48,12 @@ Here are some of the technologies and concepts I've been working with:
 
 My academic path has equipped me with a strong foundation in technology and problem-solving.
 
-| Qualification             | Institution                      | Stream/Focus          | Year        | Achievements/Documents                                                                                                                               |
-|---------------------------|----------------------------------|-----------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 📚 **B.Voc (Software Tech)** | Shree Damodar College            | Software Technology   | Currently   |                                                                                                                                                      |
+| Qualification             | Institution                      | Stream/Focus          | Year        | Achievements/Documents                                                                                                                            |
+|---------------------------|----------------------------------|-----------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| 📚 **B.Voc (Software Tech)** | Shree Damodar College            | Software Technology   | Currently   |                                                                                                                                                   |
 | 🚀 **HSSC (12th Grade)**    | M.E.S Higher Secondary School    | Computer Techniques   | 2023 - 2025 | **90.25%** <br/> (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/12th%20Marksheet.pdf" target="_blank">View Marksheet</a>) |
 | 🌟 **SSC (10th Grade)**     | Deepvihar High School            | General               | 2017 - 2023 | **80.16%** <br/> (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/SSC%20MARKSHEET.pdf" target="_blank">View Marksheet</a>)   |
-| 🧩 **Primary School**       | Deepvihar Primary School         |                       | 2013 - 2017 |                                                                                                                                                      |
+| 🧩 **Primary School**       | Deepvihar Primary School         |                       | 2013 - 2017 |                                                                                                                                                   |
 
 ---
 
@@ -96,7 +96,7 @@ I believe in continuous learning and upskilling. Here are some of the certificat
 I'm always open to collaborating on projects, discussing new ideas, or just connecting with fellow tech enthusiasts!
 
 <p align="center">
-  <a href="https://github.com/jace1395" target="_blank"><img src="https://img.shields.io/badge/Follow_me_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub"/></a>
+  <a href="https://github.com/jace1395"><img src="https://img.shields.io/badge/Follow_me_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <!-- You can add GitHub stats here if you like! 
