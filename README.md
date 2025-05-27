@@ -1,76 +1,111 @@
-<h2 align="left">Hi 👋! My name is Jace and I'm a Student from India.</h2>
+# 👋 Hello there! I'm Jace Cadwy Henriques!
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jace1395/my-portfolio-assets/main/my-portfolio-assets/Jace%20Passport%20Size.jpg" alt="Jace Henriques" width="200" style="border-radius:50%;"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jace1395&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=jace1395&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jace1395&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=jace1395&theme=dracula&column=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jace1395&theme=dracula" height="150" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <em>Aspiring A.I. Enthusiast | Software Technology Student | Lifelong Learner</em>
+  <br />
+  Vasco, Goa, India 📍
+</p>
 
-###
-
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://drive.google.com/drive/folders/1Cfa09_K_FSeMX9VsVBNolCgtB1qXIDPb)/Jace Passport Size.jpg"  />
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="www.youtube.com/@spider-jace" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Jace-13%20&color=FF0000&logoColor=black&labelColor=FF0000&style=for-the-badge" height="35" alt="youtube logo"  />
+<p align="center">
+  <a href="https://github.com/jace1395">
+    <img src="https://img.shields.io/badge/GitHub-jace1395-blue?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/jace_13?utm_source=qr&igsh=MW44Y2cyNHpkb2lvNw==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=_jace13_&color=E4405F&logoColor=black&labelColor=E4405F&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="mailto:jacehenriques07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
   </a>
-  <a href="https://www.twitch.tv/jace_1395" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=jace_1395&color=9146FF&logoColor=black&labelColor=9146FF&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="jacehenriques0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=jacehenriques0@gmail.com&color=D14836&logoColor=black&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jace-henriques-49ab3329b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Jace%20Henriques&color=0077B5&logoColor=black&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/share/15vnkiL9PJ/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=Jace%20Henriques&color=1877F2&logoColor=black&labelColor=1877F2&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://t.me/Jace_1395" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Jace%20Henriques&color=2CA5E0&logoColor=black&labelColor=2CA5E0&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://wa.me/qr/5IBQR2MS2DTRL1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=%E2%9A%A1%F0%9F%94%A5%C3%A0%C3%A7%C3%A9~13%F0%9F%8E%B8%E2%9A%BD&color=25D366&logoColor=black&labelColor=25D366&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
+## 🚀 About Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jace1395/jace1395/output/pacman-contribution-graph.svg">
-</picture>
+I'm Jace, an 18-year-old student currently pursuing a **Bachelor of Vocation (B.Voc) in Software Technology** at Shree Damodar College of Commerce and Economics, Margao. My core passion lies in the ever-evolving field of **Artificial Intelligence**, and I'm constantly exploring new concepts and technologies within this domain. I'm driven by a desire to build innovative solutions and contribute to impactful projects.
 
-###
+---
+
+## 🛠️ My Skill Set
+
+Here are some of the technologies and concepts I've been working with:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/OOPs-Concepts-lightgrey?style=for-the-badge" alt="OOPs"/>
+  <img src="https://img.shields.io/badge/DBMS-Concepts-informational?style=for-the-badge" alt="DBMS"/>
+</p>
+
+---
+
+## 🎓 My Educational Journey
+
+My academic path has equipped me with a strong foundation in technology and problem-solving.
+
+| Qualification             | Institution                      | Stream/Focus          | Year        | Achievements/Documents                                                                                                    |
+|---------------------------|----------------------------------|-----------------------|-------------|---------------------------------------------------------------------------------------------------------------------------|
+| 📚 **B.Voc (Software Tech)** | Shree Damodar College            | Software Technology   | Currently   |                                                                                                                           |
+| 🚀 **HSSC (12th Grade)**    | M.E.S Higher Secondary School    | Computer Techniques   | 2023 - 2025 | **90.25%** <br/> ([View Marksheet](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/12th%20Marksheet.pdf)) |
+| 🌟 **SSC (10th Grade)**     | Deepvihar High School            | General               | 2017 - 2023 | **80.16%** <br/> ([View Marksheet](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/SSC%20MARKSHEET.pdf))   |
+| 🧩 **Primary School**       | Deepvihar Primary School         |                       | 2013 - 2017 |                                                                                                                           |
+
+---
+
+## 💡 Projects Showcase
+
+Here's a glimpse of what I've been working on:
+
+### 🎨 Blender 3D Animation (11th Std Project)
+A short animation project created using Blender, showcasing my early exploration into 3D modeling and animation.
+*   **Watch Video:** [Blender Project Showcase](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/blender_project_11th_std.mp4)
+*   **Technologies:** Blender
+
+*(More projects coming soon as I dive deeper into A.I. and software development!)*
+
+---
+
+## 📜 Certifications & Courses
+
+I believe in continuous learning and upskilling. Here are some of the certifications I've earned:
+
+**Specialized Training:**
+*   **Next Gen UI-UX (Winter School):** PCCE (Nov 2024) - ([View Certificate](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Next%20Gen%20UI-UX%20PCCE.pdf))
+*   **PC Hardware Course:** Digicom (Post-11th Grade) - ([View Certificate](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Digicom%20PC%20Hardware%20Course.pdf))
+*   **Networking & Windows Server Administration:** Digicom (Post-12th Grade) - ([View Certificate](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Digicom%20Networking%20%26%20Windows%20Server%20Administration.pdf))
+*   **On-The-Job Training (45 Days):** VTECH (Post-11th Grade) - ([View Certificate](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/VTECH%20On-The-Job%20Training.pdf))
+
+**Great Learning - Python Proficiency:**
+*   Functions in Python - ([View Certificate](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Great%20Learning%20Course%20Certificates/Functions%20in%20Python.pdf))
+*   Programming Basics - ([View Certificate](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Great%20Learning%20Course%20Certificates/Programming%20Basics.pdf))
+*   Python Basic Programs - ([View Certificate](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Great%20Learning%20Course%20Certificates/Python%20Basic%20Programs.pdf))
+*   Python Fundamentals for Beginners - ([View Certificate](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Great%20Learning%20Course%20Certificates/Python%20Fundamentals%20for%20Beginners.pdf))
+*   Understanding Python's Role in the Job Market - ([View Certificate](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Great%20Learning%20Course%20Certificates/Python%20Jobs.pdf))
+*   Python Practice Code - ([View Certificate](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Great%20Learning%20Course%20Certificates/Python%20Practice%20Code.pdf))
+*   Python for Non-Programmers - ([View Certificate](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Great%20Learning%20Course%20Certificates/Python%20for%20Non-Programmers.pdf))
+
+---
+
+## 🔗 Let's Connect!
+
+I'm always open to collaborating on projects, discussing new ideas, or just connecting with fellow tech enthusiasts!
+
+<p align="center">
+  <a href="https://github.com/jace1395"><img src="https://img.shields.io/badge/Follow_me_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<!-- You can add GitHub stats here if you like! 
+Search for "GitHub README stats" for generators. Some popular ones are by anuraghazra.
+Example:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jace1395&show_icons=true&theme=radical" alt="Jace's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jace1395&layout=compact&theme=radical" alt="Jace's Top Languages"/>
+</p>
+-->
+
+---
