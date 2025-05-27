@@ -63,7 +63,7 @@ Here's a glimpse of what I've been working on:
 
 ### 🎨 Blender 3D Animation (11th Std Project)
 A short animation project created using Blender, showcasing my early exploration into 3D modeling and animation.
-*   **Watch Video:** [Blender Project Showcase](https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/blender_project_11th_std.mp4)
+*   **Watch Video:** [Blender Project Showcase](https://youtu.be/0KfyObLlrJs)
 *   **Technologies:** Blender
 
 *(More projects coming soon as I dive deeper into A.I. and software development!)*
