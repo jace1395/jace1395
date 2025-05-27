@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://drive.google.com/drive/folders/1Cfa09_K_FSeMX9VsVBNolCgtB1qXIDPb)/Jace Passport Size.jpg"  />
 
 ###
 
@@ -55,7 +55,7 @@
   <a href="https://www.facebook.com/share/15vnkiL9PJ/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=Jace%20Henriques&color=1877F2&logoColor=black&labelColor=1877F2&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://t.e/Jce_1395" target="_blank">
+  <a href="https://t.me/Jace_1395" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Jace%20Henriques&color=2CA5E0&logoColor=black&labelColor=2CA5E0&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://wa.me/qr/5IBQR2MS2DTRL1" target="_blank">
