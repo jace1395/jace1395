@@ -99,13 +99,13 @@ I'm always open to collaborating on projects, discussing new ideas, or just conn
   <a href="https://github.com/jace1395"><img src="https://img.shields.io/badge/Follow_me_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<!-- You can add GitHub stats here if you like! 
+<!-- GitHub stats here, below! -->
 Search for "GitHub README stats" for generators. Some popular ones are by anuraghazra.
 Example:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jace1395&show_icons=true&theme=radical" alt="Jace's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jace1395&layout=compact&theme=radical" alt="Jace's Top Languages"/>
 </p>
--->
 
----
+<p align="center">© Jace Cadwy Henriques 2025</p>
+
