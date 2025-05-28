@@ -114,11 +114,12 @@ Here's a snapshot of my activity and contributions on GitHub. I'm working on gro
   <img src="https://github-profile-trophy.vercel.app/?username=jace1395&theme=radical&column=7&margin-w=15&margin-h=15" alt="Jace's GitHub Trophies"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jace1395/jace1395/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
-</p>
-<!-- Generate an activity graph: https://github.com/ashutosh00710/github-readme-activity-graph -->
-<!-- Example: -->
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jace1395&bg_color=0d1117&color=ffffff&line=0077b5&point=ffffff&area=true&hide_border=true" /></p> 
+  <img src="https://raw.githubusercontent.com/jace1395/jace1395/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jace1395/jace1395/output/pacman-contribution-graph.svg" />
+</picture>
 
 ---
 
