@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/jace1395">
-    <img src="https://raw.githubusercontent.com/jace1395/my-portfolio-assets/main/my-portfolio-assets/Jace%20Passport%20Size.jpg" alt="Jace Henriques" width="200" style="border-radius:50%;"/>
+    <img src="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Jace%20Formal%20Suit.jpg" alt="Jace Henriques" width="200" style="border-radius:50%;"/>
   </a>
 </p>
 
