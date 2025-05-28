@@ -114,7 +114,7 @@ Here's a snapshot of my activity and contributions on GitHub. I'm working on gro
   <img src="https://github-profile-trophy.vercel.app/?username=jace1395&theme=radical&column=7&margin-w=15&margin-h=15" alt="Jace's GitHub Trophies"/>
 </p>
 <p align="center">
-#ADD GITHUB PACMAN & SNAKE
+<!--ADD GITHUB PACMAN & SNAKE-->
 </p>
 
 ---
