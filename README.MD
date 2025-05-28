@@ -114,12 +114,13 @@ Here's a snapshot of my activity and contributions on GitHub. I'm working on gro
   <img src="https://github-profile-trophy.vercel.app/?username=jace1395&theme=radical&column=7&margin-w=15&margin-h=15" alt="Jace's GitHub Trophies"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jace1395/jace1395/output/snake.svg" alt="Snake animation" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jace1395/jace1395/output/pacman-contribution-graph.svg" />
-</picture>
+  <img src="https://raw.hithubusercontent.com/jace1395/jace1395/output/snake.svg" alt="Snake animation" ?>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jace1395/jace1395/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
 
 ---
 
