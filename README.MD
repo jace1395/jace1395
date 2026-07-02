@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-I'm Jace, an 18-year-old student currently pursuing a **Bachelor of Vocation (B.Voc) in Software Technology** at Shree Damodar College of Commerce and Economics, Margao. My core passion lies in the ever-evolving field of **Artificial Intelligence**, and I'm constantly exploring new concepts and technologies within this domain. I'm driven by a desire to build innovative solutions and contribute to impactful projects that leverage technology for positive change.
+I'm Jace, a 19-year-old student currently pursuing a **Bachelor of Vocation (B.Voc) in Software Technology** at Shree Damodar College of Commerce and Economics, Margao. My core passion lies in the ever-evolving field of **Artificial Intelligence**, and I'm constantly exploring new concepts and technologies within this domain. I'm driven by a desire to build innovative solutions and contribute to impactful projects that leverage technology for positive change.
 
 ---
 
