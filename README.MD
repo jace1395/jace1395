@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=150&section=header&text=Jace%20Henriques&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=150&section=header&text=Jace%20Henriques&fontSize=50&fontColor=ffffff&animation=fadeIn" />
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/main/dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/main/light.svg?v=1">
-    <img alt="Jace Henriques" src="https://raw.githubusercontent.com/jace1395/jace1395/main/light.svg?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/main/dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/main/light.svg?v=2">
+    <img width="100%" alt="Jace Henriques" src="https://raw.githubusercontent.com/jace1395/jace1395/main/light.svg?v=2">
   </picture>
   <br/>
   
