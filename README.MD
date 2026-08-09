@@ -1,150 +1,160 @@
-# 👋 Hello there! I'm Jace Cadwy Henriques!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=150&section=header&text=Jace%20Henriques&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jacehenriques/jacehenriques/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jacehenriques/jacehenriques/main/light.svg">
+    <img alt="Jace Henriques" src="https://raw.githubusercontent.com/jacehenriques/jacehenriques/main/light.svg">
+  </picture>
+  <br/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Software+Technology+Student;Aspiring+AI+Engineer;Hardware+Enthusiast" alt="Typing SVG" />
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Rank_1-C.T._Vocational-A78BFA?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Mormugao,_Goa-0A101F?style=for-the-badge&logo=google-maps&logoColor=22D3EE" />
+  <br/>
+  <br/>
+  
+  <a href="https://www.linkedin.com/in/jacehenriques/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jacehenriques@example.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=108981&labelColor=0A101F" alt="Email" />
+  </a>
+  <br/>
+  <br/>
 
-<p align="center">
-  <a href="https://github.com/jace1395">
-    <img src="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Jace%20Passport%20Size.jpg" alt="Jace Henriques" width="200" style="border-radius:50%;"/>
-  </a>
-</p>
-
-<p align="center">
-  <em>Aspiring A.I. Enthusiast | Software Technology Student | Lifelong Learner</em>
-  <br />
-  Vasco, Goa, India 📍
-</p>
-
-<p align="center">
-  <a href="https://github.com/jace1395" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-jace1395-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jace-henriques-49ab3329b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jace_Henriques-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-  <a href="mailto:jacehenriques07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=jacehenriques&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/jacehenriques?label=Followers&style=for-the-badge&color=22D3EE" />
+  <img src="https://img.shields.io/github/stars/jacehenriques?label=Stars&style=for-the-badge&color=108981" />
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm Jace, a 19-year-old student currently pursuing a **Bachelor of Vocation (B.Voc) in Software Technology** at Shree Damodar College of Commerce and Economics, Margao. My core passion lies in the ever-evolving field of **Artificial Intelligence**, and I'm constantly exploring new concepts and technologies within this domain. I'm driven by a desire to build innovative solutions and contribute to impactful projects that leverage technology for positive change.
+First-year B.Voc (Software Technology) student dedicated to pursuing an advanced specialization as an AI Engineer. Currently focusing on the critical intersection of high-performance hardware optimization and artificial intelligence, with a specific interest in local LLM deployment and vector database architecture.
+
+- 🔭 **Engineering Focus:** Artificial Intelligence & Full Stack Software Development
+- ⚡ **Domain Interests:** PC Hardware Configurations, System Upgrades (GPUs, PSUs, RAM), and Optimizing Architecture for Local AI Models
+- 🎯 **Current Objective:** Developing robust expertise in AI engineering and staying at the forefront of machine learning technology.
+- 📫 **Open To:** AI Research Collaborations, Software Development Roles, and Technical Hardware Discussions.
 
 ---
 
-## 🛠️ My Tech Stack & Skills
+## 💻 Tech Stack
 
-Here are some of the technologies and concepts I've been working with:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <br/> <!-- Optional: line break for better spacing on some views -->
-  <img src="https://img.shields.io/badge/OOPs-Concepts-blueviolet?style=for-the-badge" alt="OOPs Concepts"/>
-  <img src="https://img.shields.io/badge/DBMS-Concepts-critical?style=for-the-badge" alt="DBMS Concepts"/>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-Concept_Learner-brightgreen?style=for-the-badge" alt="AI Learner"/>
-</p>
-
----
-
-## 🎓 My Educational Journey
-
-My academic path has equipped me with a strong foundation in technology and problem-solving.
-
-| Qualification             | Institution                      | Stream/Focus          | Year        | Achievements/Documents                                                                                                                            |
-|---------------------------|----------------------------------|-----------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 📚 **B.Voc (Software Tech)** | Shree Damodar College            | Software Technology   | _Currently Studying_ | Focusing on advanced software development principles and AI.                                                                                       |
-| 🚀 **HSSC (12th Grade)**    | M.E.S Higher Secondary School    | Computer Techniques   | 2023 - 2025 | **90.25%** <br/> (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/12th%20Marksheet.pdf" target="_blank">View Marksheet</a>) |
-| 🌟 **SSC (10th Grade)**     | Deepvihar High School            | General               | 2017 - 2023 | **80.16%** <br/> (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/SSC%20MARKSHEET.pdf" target="_blank">View Marksheet</a>)   |
-| 🧩 **Primary School**       | Deepvihar Primary School         |                       | 2013 - 2017 | Foundational Learning                                                                                                                             |
-
----
-
-## 💡 Projects Showcase
-
-Here's a glimpse of what I've been working on. I'm excited to add more as I develop my skills, especially in A.I.!
-
-### 🎨 Blender 3D Animation (11th Std Project)
-A foundational project exploring 3D modeling and animation principles using Blender. This was a collaborative effort that sparked my interest in digital creation.
-*   **Watch Video:** <a href="https://youtu.be/0KfyObLlrJs" target="_blank">Blender Project Showcase</a>
-*   **Technologies:** Blender
-*   **Team:** Jace, Suraj, Varun
-
-*(Stay tuned for more projects! I'm currently exploring ideas for AI-driven applications.)*
-
----
-
-## 📜 Certifications & Courses
-
-I believe in continuous learning and upskilling. Here's a selection of courses and certifications I've completed:
-
-**Specialized Training & Workshops:**
-*   **Next Gen UI-UX (Winter School):** Padre Conceicao College of Engineering (PCCE), Nov 2024 - (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Next%20Gen%20UI-UX%20PCCE.pdf" target="_blank">View Certificate</a>)
-*   **PC Hardware Course:** Digicom Institute (Post-11th Grade) - (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Digicom%20PC%20Hardware%20Course.pdf" target="_blank">View Certificate</a>)
-*   **Networking & Windows Server Administration:** Digicom Institute (Post-12th Grade) - (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Digicom%20Networking%20%26%20Windows%20Server%20Administration.pdf" target="_blank">View Certificate</a>)
-*   **On-The-Job Training (45 Days):** VTECH Solutions (Post-11th Grade) - (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/VTECH%20On-The-Job%20Training.pdf" target="_blank">View Certificate</a>)
-
-**Great Learning - Python Proficiency:**
-*   Functions in Python - (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Great%20Learning%20Course%20Certificates/Functions%20in%20Python.pdf" target="_blank">View Certificate</a>)
-*   Programming Basics - (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Great%20Learning%20Course%20Certificates/Programming%20Basics.pdf" target="_blank">View Certificate</a>)
-*   Python Basic Programs - (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Great%20Learning%20Course%20Certificates/Python%20Basic%20Programs.pdf" target="_blank">View Certificate</a>)
-*   Python Fundamentals for Beginners - (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Great%20Learning%20Course%20Certificates/Python%20Fundamentals%20for%20Beginners.pdf" target="_blank">View Certificate</a>)
-*   Understanding Python's Role in the Job Market - (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Great%20Learning%20Course%20Certificates/Python%20Jobs.pdf" target="_blank">View Certificate</a>)
-*   Python Practice Code - (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Great%20Learning%20Course%20Certificates/Python%20Practice%20Code.pdf" target="_blank">View Certificate</a>)
-*   Python for Non-Programmers - (<a href="https://github.com/jace1395/my-portfolio-assets/blob/main/my-portfolio-assets/Great%20Learning%20Course%20Certificates/Python%20for%20Non-Programmers.pdf" target="_blank">View Certificate</a>)
-
----
-
-## 📊 My GitHub Stats & Activity
-
-Here's a snapshot of my activity and contributions on GitHub. I'm working on growing these numbers every day!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jace1395&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Jace's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jace1395&layout=compact&langs_count=8&theme=radical" alt="Jace's Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jace1395&theme=dark&hide_border=true" alt="Jace's GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jace1395&theme=radical&column=7&margin-w=15&margin-h=15" alt="Jace's GitHub Trophies"/>
-</p>
-<p align="center">
-<!--ADD GITHUB PACMAN & SNAKE-->
-</p>
-
----
-
-## 🌱 Goals & Aspirations
-
-*   **Currently Learning:** Advanced Python, HTML5, CSS3, JS, PHP and MySQL.
-*   **Future Goals:** To become a proficient AI Engineer, develop solutions that tackle real-world problems, and perhaps lead a tech team or start my own venture.
-*   **Looking to Collaborate On:** Exciting AI projects, innovative web applications, mobile development or any open-source initiatives where I can learn and contribute.
-
----
-
-## 🔗 Let's Connect!
-
-I'm always eager to connect with fellow students, developers, mentors, and potential collaborators. Feel free to reach out!
-
-<p align="center">
-  <a href="https://github.com/jace1395" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_me_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,ts&theme=dark" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,github,vscode,linux&theme=dark" />
   </a>
-  <a href="https://www.linkedin.com/in/jace-henriques-49ab3329b" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jacehenriques07@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <small><em>"The best way to predict the future is to create it." - Abraham Lincoln / Peter Drucker</em></small>
-</p>
+---
 
-<p align="center">© Jace Cadwy Henriques 2025</p>
+## 🧠 AI/ML & Data Engineering Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :---: | :--- |
+| **Vector Databases** | Intermediate | Architecture analysis and implementation of **Weaviate DB** for advanced AI applications. |
+| **Local LLMs** | Exploring | Researching and benchmarking hardware configurations for optimal local deployment. |
+
+---
+
+## 📦 Featured Projects
+
+<details>
+  <summary><b>Weaviate DB Implementation Research</b></summary>
+  <br/>
+  Technical presentation and collaborative group research analyzing Weaviate DB architecture.
+  
+  | Aspect | Details |
+  | :--- | :--- |
+  | **Stack** | Weaviate, Python, Vector Search |
+  | **Scale** | Academic Research Project |
+  | **Impact** | Analyzed data structures and AI integration capabilities for modern search applications. |
+  
+  > *Professional exploration of vector databases engineered to support and scale machine learning models.*
+</details>
+
+<details>
+  <summary><b>Hardware Architecture for Local AI</b></summary>
+  <br/>
+  Comprehensive analysis of system configurations designed explicitly for running local LLMs and rigorous computational tasks.
+  
+  | Aspect | Details |
+  | :--- | :--- |
+  | **Focus** | Hardware Optimization, Resource Allocation (CPU, GPU, VRAM) |
+  | **Scale** | Future-proof system design slated for a 2028 deployment timeline. |
+  | **Performance** | Evaluated performance bottlenecks and hardware upgrade paths. |
+  
+  > *Evaluated specific upgrade paths for legacy configurations (e.g., i5-10400F, GT 730) to establish baseline requirements for AI computing tasks.*
+</details>
+
+---
+
+## 🏆 Achievements & Academic Excellence
+
+| Recognition | Details |
+| :--- | :--- |
+| **1st Rank (C.T. Vocational Stream)** | Secured highest academic standing at Madhav Kamat Higher Secondary School for the 2024-25 academic year. |
+
+---
+
+## 🎖️ Coding Profiles
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=F89F1B" />
+  <img src="https://img.shields.io/badge/-HackerRank-0A101F?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=jacehenriques&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+  <br/>
+  <img width="49%" src="https://jace1395-epjvgllgg-jace12.vercel.app/api?username=jacehenriques&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+  <img width="49%" src="https://jace1395-epjvgllgg-jace12.vercel.app/api/top-langs/?username=jacehenriques&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jacehenriques&theme=dracula&margin-w=15&margin-h=15&no-frame=true&column=6" />
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jacehenriques/jacehenriques/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jacehenriques/jacehenriques/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/jacehenriques/jacehenriques/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Current_Focus:
+  Learning:
+    - Advanced AI/ML Engineering
+    - Vector Databases (Weaviate)
+  Building:
+    - Local LLM Deployments
+  Exploring:
+    - High-Performance PC Hardware Configurations
+  Open_To:
+    - Technical Mentorship & Open Source Contributions
