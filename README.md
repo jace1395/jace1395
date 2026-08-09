@@ -8,7 +8,7 @@
   </picture>
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Second-Year+Software+Technology+Student;Aspiring+AI+Engineer;Hardware+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=19+year+old+tech+savvy+nerd;Aspiring+AI+Engineer;Hardware+Enthusiast" alt="Typing SVG" />
   <br/>
   
   <img src="https://img.shields.io/badge/Rank_1-C.T._Vocational-A78BFA?style=for-the-badge&logo=google-scholar&logoColor=white" />
