@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    runs-name: ubuntu-latest
+    runs-on: ubuntu-latest
     permissions:
       contents: write
 
