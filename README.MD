@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=150&section=header&text=Jace%20Henriques&fontSize=50&fontColor=ffffff&animation=fadeIn" />
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jacehenriques/jacehenriques/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jacehenriques/jacehenriques/main/light.svg">
-    <img alt="Jace Henriques" src="https://raw.githubusercontent.com/jacehenriques/jacehenriques/main/light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/main/light.svg">
+    <img alt="Jace Henriques" src="https://raw.githubusercontent.com/jace1395/jace1395/main/light.svg">
   </picture>
   <br/>
   
@@ -16,19 +16,19 @@
   <br/>
   <br/>
   
-  <a href="https://www.linkedin.com/in/jacehenriques/">
+  <a href="https://www.linkedin.com/in/jace-cadwy-henriques/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:jacehenriques@example.com">
+  <a href="mailto:jacehenriques07@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=108981&labelColor=0A101F" alt="Email" />
   </a>
   <br/>
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=jacehenriques&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/jacehenriques?label=Followers&style=for-the-badge&color=22D3EE" />
-  <img src="https://img.shields.io/github/stars/jacehenriques?label=Stars&style=for-the-badge&color=108981" />
+  <img src="https://komarev.com/ghpvc/?username=jace1395&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/jace1395?label=Followers&style=for-the-badge&color=22D3EE" />
+  <img src="https://img.shields.io/github/stars/jace1395?label=Stars&style=for-the-badge&color=108981" />
 </div>
 
 ---
@@ -50,7 +50,7 @@ First-year B.Voc (Software Technology) student dedicated to pursuing an advanced
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,ts&theme=dark" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,github,vscode,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=django,mysql,postgres,docker,linux,git,github,vscode,pycharm&theme=dark" />
   </a>
 </div>
 
@@ -117,10 +117,10 @@ First-year B.Voc (Software Technology) student dedicated to pursuing an advanced
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=jacehenriques&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=jace1395&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
   <br/>
-  <img width="49%" src="https://jace1395-epjvgllgg-jace12.vercel.app/api?username=jacehenriques&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-  <img width="49%" src="https://jace1395-epjvgllgg-jace12.vercel.app/api/top-langs/?username=jacehenriques&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+  <img width="49%" src="https://jace1395-epjvgllgg-jace12.vercel.app/api?username=jace1395&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+  <img width="49%" src="https://jace1395-epjvgllgg-jace12.vercel.app/api/top-langs/?username=jace1395&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 
 ---
@@ -128,7 +128,7 @@ First-year B.Voc (Software Technology) student dedicated to pursuing an advanced
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jacehenriques&theme=dracula&margin-w=15&margin-h=15&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jace1395&theme=dracula&margin-w=15&margin-h=15&no-frame=true&column=6" />
 </div>
 
 ---
@@ -137,9 +137,9 @@ First-year B.Voc (Software Technology) student dedicated to pursuing an advanced
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jacehenriques/jacehenriques/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jacehenriques/jacehenriques/output/github-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/jacehenriques/jacehenriques/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/jace1395/jace1395/output/github-snake.svg" />
   </picture>
 </div>
 
