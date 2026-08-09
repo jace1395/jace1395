@@ -13,9 +13,13 @@ current_year = today.year
 with open('README.md', 'r', encoding='utf-8') as file:
     content = file.read()
 
-# Replace the AGE and YEAR safely using Regex
+# 1. Update the hidden HTML tags in the "About Me" and "Footer" sections
 content = re.sub(r'<!-- AGE -->\d+<!-- /AGE -->', f'<!-- AGE -->{age}<!-- /AGE -->', content)
 content = re.sub(r'<!-- YEAR -->\d+<!-- /YEAR -->', f'<!-- YEAR -->{current_year}<!-- /YEAR -->', content)
+
+# 2. Update the Animated Typing SVG URL
+# This finds "lines=19+year+old" and updates the number automatically
+content = re.sub(r'lines=\d+\+year\+old', f'lines={age}+year+old', content)
 
 # Write the updated text back to the file
 with open('README.md', 'w', encoding='utf-8') as file:
