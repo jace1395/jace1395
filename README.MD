@@ -2,9 +2,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=150&section=header&text=Jace%20Henriques&fontSize=50&fontColor=ffffff&animation=fadeIn" />
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/main/dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/main/light.svg?v=2">
-    <img width="100%" alt="Jace Henriques" src="https://raw.githubusercontent.com/jace1395/jace1395/main/light.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/main/dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jace1395/jace1395/main/light.svg?v=3">
+    <img width="100%" alt="Jace Henriques" src="https://raw.githubusercontent.com/jace1395/jace1395/main/light.svg?v=3">
   </picture>
   <br/>
   
@@ -47,11 +47,26 @@ First-year B.Voc (Software Technology) student dedicated to pursuing an advanced
 ## 💻 Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,ts&theme=dark" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=django,mysql,postgres,docker,linux,git,github,vscode,pycharm&theme=dark" />
-  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Affinity_Designer-1B1E2B?style=for-the-badge&logo=affinitydesigner&logoColor=white" />
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-CB1036?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/FL_Studio-F28500?style=for-the-badge&logo=flstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" />
 </div>
 
 ---
@@ -117,10 +132,10 @@ First-year B.Voc (Software Technology) student dedicated to pursuing an advanced
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=jace1395&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jace1395&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
   <br/>
-  <img width="49%" src="https://jace1395-epjvgllgg-jace12.vercel.app/api?username=jace1395&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-  <img width="49%" src="https://jace1395-epjvgllgg-jace12.vercel.app/api/top-langs/?username=jace1395&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jace1395&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jace1395&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 
 ---
